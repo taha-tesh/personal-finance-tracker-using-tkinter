@@ -1,4 +1,4 @@
-
+## Tkinter Framework
 
 CustomTkinter is a python UI-library based on Tkinter, which provides new, modern and
 fully customizable widgets. They are created and used like normal Tkinter widgets and
@@ -10,6 +10,7 @@ desktop platforms (Windows, macOS, Linux).
 
 
 ## Installation
+
 Install the module with pip:
 ```
 pip3 install customtkinter
@@ -25,7 +26,7 @@ The **official** documentation can be found here:
 
 ## How To Run The Program
 
-    1- open the login.py file and run it
+    	1- open the login.py file and run it
 	2- use that form to sign up enter a username and password then click sign up
 	3- use the same form to login enter the username and the password those you wrote befor then click login
 	4- after that in the main app click on the add button
@@ -33,10 +34,3 @@ The **official** documentation can be found here:
 	6- it is recommended to add many data for better viewing
 	7- then you can see the total balance, income and expenses that you entred befor
 	8- you can click on the incomes and expenses buttons to see the plots 
-
-
-| _`examples/map_with_customtkinter.py` from TkinterMapView repository on Windows 11_
-
-You can find the TkinterMapView library and example program here:
-https://github.com/TomSchimansky/TkinterMapView
-
