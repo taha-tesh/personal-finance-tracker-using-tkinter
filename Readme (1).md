@@ -1,28 +1,4 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./documentation_images/CustomTkinter_logo_dark.png">
-    <img src="./documentation_images/CustomTkinter_logo_light.png">
-  </picture>
-</p>
 
-<div align="center">
-
-![PyPI](https://img.shields.io/pypi/v/customtkinter)
-![PyPI - Downloads](https://img.shields.io/pypi/dm/customtkinter?color=green&label=downloads)
-![Downloads last 6 month](https://static.pepy.tech/personalized-badge/customtkinter?period=total&units=international_system&left_color=grey&right_color=green&left_text=downloads%20last%206%20month)
-![PyPI - License](https://img.shields.io/badge/license-MIT-blue)
-![LOC](https://tokei.rs/b1/github/tomschimansky/customtkinter?category=lines)
-
-</div>
-
----
-
-<div align="center">
-<a href="https://www.paypal.com/donate/?hosted_button_id=LK5QAZYRN2R2A"><img src="documentation_images/paypal_donate_button.png" width=170 alt="Paypal donation button"></a>
-<h3>
-Official website: https://customtkinter.tomschimansky.com
-</h3>
-</div>
 
 CustomTkinter is a python UI-library based on Tkinter, which provides new, modern and
 fully customizable widgets. They are created and used like normal Tkinter widgets and
@@ -31,13 +7,6 @@ and the window colors either adapt to the system appearance or the manually set 
 ('light', 'dark'), and all CustomTkinter widgets and windows support HighDPI scaling
 (Windows, macOS). With CustomTkinter you'll get a consistent and modern look across all
 desktop platforms (Windows, macOS, Linux).
-
-![](documentation_images/complex_example_dark_Windows.png)
-| _`complex_example.py` on Windows 11 with dark mode and 'blue' theme_
-
-![](documentation_images/complex_example_light_macOS.png)
-| _`complex_example.py` on macOS in light mode and standard 'blue' theme_
-###
 
 
 ## Installation
