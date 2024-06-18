@@ -1,0 +1,24 @@
+user_name,description,amount,type,date
+taha,salary,500,Income,2024-05-20
+taha,electrisity,50,Expensis,2024-05-20
+taha,sa,800,Income,2024-05-20
+test,sa,1500,Income,2024-05-20
+test,food,20,Expensis,2024-05-20
+musa,salary,1000,Income,2024-05-20
+musa,food,20,Expensis,2024-05-20
+test,salary,200,Income,2024-05-20
+test,water,50,Expensis,2024-05-20
+taha,salary,800,Income,2024-05-15
+taha,salary,900,Income,2024-05-16
+taha,salary,300,Income,2024-05-19
+taha,electrisity,800,Expensis,2024-05-18
+taha,electrisity,900,Expensis,2024-05-15
+taha,electrisity,300,Expensis,2024-05-19
+taha,ssa,100,Income,2024-05-21
+taha,food,30,Expensis,2024-05-21
+taha,sa,200,Income,2024-05-21
+test,sa,200,Income,2024-05-21
+test,sa,1700,Income,2024-05-21
+test,sa,1500,Income,2024-05-21
+test,food,200,Expensis,2024-05-21
+taha elouneg,sa,200=,Income,2024-05-21
