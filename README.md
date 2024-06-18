@@ -26,7 +26,7 @@ The **official** documentation can be found here:
 
 ## How To Run The Program
 
-    	1- open the login.py file and run it
+    1- open the login.py file and run it
 	2- use that form to sign up enter a username and password then click sign up
 	3- use the same form to login enter the username and the password those you wrote befor then click login
 	4- after that in the main app click on the add button
